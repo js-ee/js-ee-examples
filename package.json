@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/js-ee/js-ee-examples#readme",
   "dependencies": {
-    "enterprise-edition": "0.0.4"
+    "enterprise-edition": "0.0.5"
   }
 }
