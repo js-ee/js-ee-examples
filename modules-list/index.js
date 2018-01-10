@@ -1,6 +1,6 @@
 
 const {
-    DependentTypes
+    DependentTypes,
 } = require('enterprise-edition');
 
 console.log('DependentTypes:', Object.keys(DependentTypes));
