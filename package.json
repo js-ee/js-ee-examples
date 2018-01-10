@@ -1,0 +1,22 @@
+{
+  "name": "js-ee-examples",
+  "version": "0.0.1",
+  "description": "Examples of usage of JS EE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-ee/js-ee-examples.git"
+  },
+  "author": "Alexander Abramov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-ee/js-ee-examples/issues"
+  },
+  "homepage": "https://github.com/js-ee/js-ee-examples#readme",
+  "dependencies": {
+    "enterprise-edition": "0.0.4"
+  }
+}
